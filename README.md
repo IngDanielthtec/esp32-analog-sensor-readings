@@ -21,3 +21,7 @@ Arduino C++ sketches for reading analog sensors with an ESP32
 ## Usage
 Open the .ino file in Arduino IDE, select the ESP32 board,
 upload and open the Serial Monitor at 115200 baud.
+
+## About
+Personal project developed for learning and prototyping
+IoT sensor nodes. Not affiliated with any company or client.
